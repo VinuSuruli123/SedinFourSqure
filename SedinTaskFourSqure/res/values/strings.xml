@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SedinTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="url">https://api.foursquare.com/v2/venues/search?client_id=</string>
+
+</resources>
